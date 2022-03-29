@@ -11,3 +11,8 @@ Integrantes:
 
   - Bryan Steven Garavito Gonzalez. 
   - David Leonardo Melo Contreras.
+
+# Revision Entornos Computacion-Paralela
+Contine: 
+  - Ejecutable matrices con hilos
+  - 
