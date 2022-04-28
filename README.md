@@ -1,18 +1,13 @@
-# Parcial 1Computacion-Paralela
+# Segundo Examen Parcial: Comparativa Pthreads - OpenMP
 Ficheros de cada algoritmo ejecutado para la resolucion del parcial.
 
 Contiene:
 
-  - Multiplicación de matrices (nxn) de manera básica.
-  - Multiplicación de matrices (nxn) utilizando punteros.
-  - Multiplicación de matrices (nxn) utilizando hilos:POSIX.
+  - Algoritmo_1: benchmark multiplicación de matrices clásica filas por columnas con OpenMP (MM1cOMP).
+  - Algoritmo_2: benchmark multiplicación de matrices filas por fila con OpenMP (MM1fOMP)
+  - Algoritmo_3: benchmark multiplicación de matrices clásica filas por columnas Pthreads (MM1cPosix)
 
 Integrantes:
 
   - Bryan Steven Garavito Gonzalez. 
   - David Leonardo Melo Contreras.
-
-# Revision Entornos Computacion-Paralela
-Contine: 
-  - Ejecutable matrices con hilos
-  - 
